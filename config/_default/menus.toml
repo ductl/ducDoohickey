@@ -1,0 +1,41 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Mathematics"
+  weight = 200
+  identifier = "math"
+  url = "/Mathematics/"
+
+  [[main]]
+  name = "Programming"
+  weight = 300
+  identifier = "program"
+  url = "/Programming/"
+
+  [[main]]
+  name = "Finance & Economics"
+  weight = 400
+  identifier = "F&E"
+  url = "/FinanceEconomics/"
+
+  [[main]]
+  name = "Err ..."
+  weight = 500
+  identifier = "Err"
+  url = "/Err/"
+
+  [[main]]
+  name = "About"
+  weight = 600
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Contact"
+  weight = 700
+  identifier = "contact"
+  url = "/contact/"
