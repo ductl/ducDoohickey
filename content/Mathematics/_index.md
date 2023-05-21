@@ -1,6 +1,6 @@
 +++
 aliases = ["math", "financial mathematics", "mathematics", "modeling", "econometrics"]
-title = "math"
+title = "Mathematics"
 author = "Duc's Doohickey"
 tags = ["index"]
 +++
