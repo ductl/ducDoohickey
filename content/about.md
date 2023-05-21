@@ -25,5 +25,3 @@ Hence, blog writing is a good solution for many of my problems. Firstly, it will
 In this blog, you will find my post on topics on pure math and its application in finance. I will upload my progress and solution to programming problems that I often challenge myself. Indeed, I will write about topics in finance and economics which is my domain of knowledge. And lastly, I will post about funny things that happened in my life or sudden idea that comes through my mind at random moments. So, I hope you will enjoy reading my blog and that I can inspire you.
 
 When I take up new things, I will make a massive announcement to my friends. And then I do nothing! This time will be different. I silently do everything. So if you are my friends or know me in person, and unfortunately, you land on my blog, then “F*ck you!!!”.
-
-
