@@ -5,7 +5,7 @@ author = "Duc's Doohickey"
 description = "... pretending to be a mathematician ... I guess!"
 profilePicture = "images/favicon.jpg"
 keywords = ""
-favicon = ""
+favicon = "images/favicon.jpg"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
